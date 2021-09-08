@@ -1,0 +1,2 @@
+# Comparitive-Analysis-Covid-19-of-US-and-India
+Through This notebook we will learn and infer how covid-19 pandemic has swept across US and India, the two Most affected Countries in world. As I am working on this comparision COVID-19 has taken a deadly 2nd wave in India . By analyzing this data we will try to figure out with statistical reasoning whether how it might behave in India WRT to the United States by pointing out Both the similarities and differences between the two
